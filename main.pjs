@@ -1,0 +1,12 @@
+superFetch = {import:super-fetch-plugin}
+$meta
+  title = Geo-Clima
+  description = App de clima con GPS, mapa de radar y satélite (RainViewer), pronóstico Open-Meteo, SMN, AccuWeather y Meteoblue, con alertas de tormenta.
+  header
+    mode = minimal
+
+$output = [propaganda]
+propaganda
+  .
+
+
